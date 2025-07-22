@@ -17,7 +17,7 @@
 
 *Seamless multi-broker integration • Advanced AI analytics • Lightning-fast execution*
 
-![RUFUS TRADER Interface](assets/screenshots/main-interface.png)
+![RUFUS TRADER Interface](555.png)
 
 </div>
 
@@ -543,7 +543,7 @@ public class MyCustomStrategy : IStrategy
 
 ### 🎨 **Modern Design**
 
-![Trading Dashboard](assets/screenshots/dashboard-overview.png)
+![Trading Dashboard](666.png)
 
 ### 🖥️ **Key UI Features**
 
